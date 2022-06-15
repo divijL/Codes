@@ -1,2 +1,2 @@
-# DynamicProgrammingQuestions
- 40+ Dynamic programming question java codes from aditya verma dp series
+# Leetcode
+Daily 10 Leetcode questions (3 easy , 5 medium and 2 hard)
