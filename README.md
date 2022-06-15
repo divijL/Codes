@@ -1,2 +1,2 @@
-# Leetcode
-Daily 10 Leetcode questions (3 easy , 5 medium and 2 hard)
+# DSA Codes Java
+Some data structure and algorithm questions code in Java
